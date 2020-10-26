@@ -16,7 +16,7 @@ echo " Youtube :> https://www.youtube.com/Hacker X/ "
 echo "---------------------------------------------------------------------------------"
 
 echo "press ENTER to continue"
-read
+read g
 
 pkg install w3m                   #update in progress                  #installation......
 pkg install python
