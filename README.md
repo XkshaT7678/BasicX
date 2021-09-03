@@ -30,7 +30,7 @@ pkg update;pkg upgrade;pkg install git python;git clone https://github.com/MrHac
 
 <h3><b><i>📡 Connect with us :</i></b></h3>
 <a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/github.png" /></a>
-<a href="https://instagram.com/mrhacker.x/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/instagram.png" /></a>
+<a href="https://instagram.com/mrhackerx5/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/instagram.png" /></a>
 <a href="https://t.me/mrhackersx/"><img align="left" title="Telegram" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/telegram.png" /></a>
 <a href="https://youtube.com/c/Sololex/"><img align="left" title="YouTube" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/youtube.png" /></a>
 
