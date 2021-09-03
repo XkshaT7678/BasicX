@@ -23,7 +23,7 @@ pkg update;pkg upgrade;pkg install git python;git clone https://github.com/MrHac
 ```
 
 ## Screenshots:
-![photo](https://raw.githubusercontent.com/MrHacker-X/BasicX/main/.img/menu.jpg/)
+![photo](https://raw.githubusercontent.com/MrHacker-X/BasicX/main/.img/menu.jpg)
 ![photo](https://raw.githubusercontent.com/MrHacker-X/BasicX/main/.img/about.jpg)
 ![photo](https://raw.githubusercontent.com/MrHacker-X/BasicX/main/.img/about_link.jpg)
 ![photo](https://raw.githubusercontent.com/MrHacker-X/BasicX/main/.img/manual_pkg.jpg)
