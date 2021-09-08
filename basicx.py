@@ -107,7 +107,7 @@ if main == '01' or main == '1':
 		pall = input('\n\n\033[1;92m//Basic//: ')
 		if pall == '01' or pall == '1':
 			delay_print('\n\033[1;92minxi is installing...\n\n')
-			os.system('apt update -y;apt upgrade -y;apt install git -y')
+			os.system('apt update -y;apt upgrade -y;apt install inxi -y')
 			delay_print('\n\033[1;92minxi is installed in your termux\n')
 			time.sleep(1.5)
 		elif pall == '02' or pall == '2':
