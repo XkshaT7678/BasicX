@@ -398,8 +398,8 @@ elif main == '03' or main == '3':
 	delay_print("""\n\n\033[1;92mHello Guys I'm MrHacker-X, And I've created this tool for those who is beginner termux user and they have no any idea which type package we need to install in my termux or which not. \nGuys you can install total 51 basic packages in your termux that too just in one click and you have an option to install required basic packages manually. I hope This tool will help you a lot And Please Give Us feedback of this tool on github page,\n\nGuys you can also connect with us on Social media Pages, All social media link is given below:
 
 [*] Instagram:
-   + Username    : @ mrhackerx5
-   + Profile URL :\033[1;94m https://instagram.com/mrhackerx5/ \033[1;92m
+   + Username    : @ 0hacker_x0
+   + Profile URL :\033[1;94m https://instagram.com/0hacker_x0/ \033[1;92m
 
 [*] Github:
    + Username    : @ MrHacker-X
@@ -410,8 +410,8 @@ elif main == '03' or main == '3':
    + Channel URL :\033[1;94m https://youtube.com/c/Sololex/\033[1;92m
 
 [*] Telegram:
-   + Channel Name: MrHacker-X
-   + Channel URL :\033[1;94m https://t.me/mrhackersx/\033[1;92m\n""")
+   + Channel Name: Sololex
+   + Channel URL :\033[1;94m https://t.me/hackwithalex/\033[1;92m\n""")
 	while True:
 		delay_print('\n\033[1;92m[##] Select an option:\n\n[95] Back\n[00] Exit\n')
 		ask = input('\n\033[1;92m//Basic//: ')
