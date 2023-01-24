@@ -382,7 +382,7 @@ elif main == '02' or main == '2':
 	delay_print('\033[1;92mOk, all basic packages are installing in your termux, it might be take some time')
 	os.system('apt update -y')
 	os.system('apt upgrade -y')
-	os.system('apt install root-repo unstable-repo x11-repo inxi python2 python curl perl nodejs figlet php ruby o-editor termux-api netcat zip unzip fish cmatrix tor tar wget mpv jp2a openssh openssl clang nmap w3m dnsutils-static dnsutils coreutils python2-static vim-python python2-six python-static vim tree youtubedr proot proot-distro openjdk-17 unrar golang-doc golang cowsay wireshark-gtk inetutils lf findomain jp2a -y')
+	os.system('apt install root-repo unstable-repo x11-repo inxi python2 python curl perl nodejs figlet php ruby o-editor termux-api zip unzip fish cmatrix tor tar wget mpv jp2a openssh openssl clang nmap w3m dnsutils-static dnsutils coreutils python2-static python-static vim tree youtubedr proot proot-distro openjdk-17 unrar golang cowsay inetutils lf findomain jp2a -y')
 	os.system('npm install ngrok -g')
 
 elif main == '03' or main == '3':
